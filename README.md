@@ -24,7 +24,7 @@ RegisterNumber:
 
 ## Output:
 
-
+![alt text](<Screenshot 2024-02-28 030637.png>)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
